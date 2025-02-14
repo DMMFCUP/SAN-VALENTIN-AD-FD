@@ -14,13 +14,13 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "amor diga que si por ",
-    img: "https://i.pinimg.com/originals/d5/81/b7/d581b739d86d933286d7670608d9ba33.gif"
+    description: "Di si por favor",
+    img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: " y si lo vuelve a Pensar mu vida?",
-    img: "https://i.pinimg.com/originals/b0/f9/af/b0f9af532b093595bb6abdc833c1b261.gif"
+    description: "Piénsalo de nuevo.",
+    img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
